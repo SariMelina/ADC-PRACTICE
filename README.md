@@ -1,0 +1,2 @@
+# PRACTICE TO CONNECT MYSQL
+This practice
